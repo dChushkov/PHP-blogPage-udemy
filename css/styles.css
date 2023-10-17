@@ -1,0 +1,10 @@
+ul#index {
+
+    padding-left: 0;
+    list-style-type: none;
+
+}
+
+#message {
+   height: 10em;
+}
